@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @MiguelMR800
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm MiguelMR800
 
-<!---
-MiguelMR800/MiguelMR800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm currently building **MyCryptoHub**, a stylish and informative landing page that lists trusted crypto exchanges, hot wallets, and cold wallets — all with reviews, tutorials, and affiliate links.
+
+## Featured Project
+
+### [MyCryptoHub](https://miguelmr800.github.io/MyCryptoHub/)
+A sleek, mobile-friendly crypto hub site built with:
+- HTML5, CSS3, and JavaScript
+- GitHub Pages for hosting
+- Optimized for mobile and desktop
+
+Explore trusted platforms like:
+- Bybit, Binance, Crypto.com
+- MetaMask, Phantom, Ledger
+
+## Let's connect
+Feel free to check out my work or reach out if you're working on something similar!
